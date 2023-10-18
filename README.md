@@ -1,6 +1,6 @@
 # Image Scaling with Linear Interpolation from scratch
 
-This Python script demonstrates image scaling using linear interpolation. It takes an original image, converts it to grayscale, resamples it to a reduced size, and upscales it back to its original dimensions. Mean Squared Error (MSE) is used to quantify the difference between the original and upscaled images.
+This jupyter notebook demonstrates image scaling using linear interpolation. It takes an original image, converts it to grayscale, resamples it to a reduced size, and upscales it back to its original dimensions. Mean Squared Error (MSE) is used to quantify the difference between the original and upscaled images.
 
 ## Usage
 
